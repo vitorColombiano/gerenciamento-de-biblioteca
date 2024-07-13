@@ -1,0 +1,25 @@
+[
+    {
+        "id": "1",
+        "name": "Alice",
+        "user_type": "student",
+        "borrowed_books": []
+    },
+    {
+        "id": "2",
+        "name": "Bob",
+        "user_type": "teacher",
+        "borrowed_books": []
+    },
+    {
+        "id": "3",
+        "name": "Charlie",
+        "user_type": "student",
+        "borrowed_books": []
+    },
+    {
+        "id": "7",
+        "name": "Vitor Colombiano",
+        "borrowed_books": []
+    }
+]

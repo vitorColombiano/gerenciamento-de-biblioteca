@@ -1,0 +1,35 @@
+[
+    {
+        "id": "1",
+        "title": "The Catcher in the Rye",
+        "author": "J.D. Salinger",
+        "category": "Fiction",
+        "year": 1951,
+        "available": true
+    },
+    {
+        "id": "2",
+        "title": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "category": "Fiction",
+        "year": 1960,
+        "available": true,
+        "borrowed": false
+    },
+    {
+        "id": "3",
+        "title": "1984",
+        "author": "George Orwell",
+        "category": "Dystopian",
+        "year": 1949,
+        "available": false
+    },
+    {
+        "id": "8",
+        "title": "As Aventuras de Fish",
+        "author": "Vitor Colombiano",
+        "category": "Aventura",
+        "year": "2024",
+        "is_borrowed": false
+    }
+]
